@@ -13,3 +13,12 @@
   float: right;
   padding-left: 20px;
 }
+.quote {
+  font-style: italic;
+}
+.selfie {
+  float: left;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
