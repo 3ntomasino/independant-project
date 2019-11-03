@@ -5,6 +5,9 @@
 .twomain li {
   font-style: italic;
 }
+.threemain h2 {
+  font-style: italic;
+}
 .bedhead {
   text-align: center;
   padding-top: 25px;
@@ -25,7 +28,7 @@
 }
 .selfie {
   float: left;
-  margin: 15px;
+  margin: 20px;
   border: 2px solid lightgray;
   padding-right: 4px;
   padding-top: 4px;
