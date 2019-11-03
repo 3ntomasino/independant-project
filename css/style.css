@@ -17,11 +17,13 @@
 .sadpuppy {
   float: left;
   padding-right: 20px;
+  margin: 20px;
 }
 
 .wikipedia {
   float: right;
   padding-left: 20px;
+  margin: 20px;
 }
 .quote {
   font-style: italic;
