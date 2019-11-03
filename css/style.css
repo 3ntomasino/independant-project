@@ -11,6 +11,9 @@
 .threemain li {
   font-weight: bolder;
 }
+.important {
+  color: red;
+}
 .bedhead {
   text-align: center;
   padding-top: 25px;
