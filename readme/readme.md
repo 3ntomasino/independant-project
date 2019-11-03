@@ -1,7 +1,7 @@
 # Portfolio for Ian Tomasino
 
-### This is a display of the projects I've created so far in my Epicodus bootcamp.
-_This webpage is meant to display a few of the projects and techniques that I've learned thus far at Epicodus._
+### This is a display of some of the projects I've created so far in my Epicodus bootcamp.
+_This webpage is meant to display a few of the projects and techniques that I've learned thus far at Epicodus, as well as the some of the languages that I've been learning._
 ### Setup/Installation Requirements
 _All you need is a browser to enjoy this. Atom and GitHub are required to take a look at the code._
 ### Known Bugs
@@ -16,5 +16,7 @@ _If you have any issues, email Ian @ usesomeink@gmail.com!_
 * Bootstrap
 * Markdown
 
+#### Link to Webpage
+_https://3ntomasino.github.io/independent-project/_
 #### License
 _Copyright (c) 2019 Ian Tomasino. This software is licensed under the GPL license._
