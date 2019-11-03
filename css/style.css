@@ -1,3 +1,10 @@
+.twomain p {
+  font-style: italic;
+  font-weight: bolder;
+}
+.twomain li {
+  font-style: italic;
+}
 .bedhead {
   text-align: center;
   padding-top: 25px;
